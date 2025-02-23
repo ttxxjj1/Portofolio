@@ -1,2 +1,2 @@
 # Lua-code-snippets
-to view them go to issues
+to view my talent hub, videos and snippets go to issues
