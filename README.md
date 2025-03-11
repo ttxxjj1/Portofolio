@@ -1,2 +1,2 @@
-# Lua-code-snippets
-to view my talent hub, videos, snippets and cv go to issues.
+# High-Quality Programming
+Fullstack Programmer 7+ Years Experience
