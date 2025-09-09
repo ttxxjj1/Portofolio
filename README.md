@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **lua, react, vue, python, java, typescript**
 
-- 📫 How to reach me **ttxxjjz@gmail.com**
+- 📫 How to reach me **ttxxjjz@gmail.com or via discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
